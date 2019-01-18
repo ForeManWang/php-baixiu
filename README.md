@@ -117,6 +117,8 @@
 
 ## 项目文档
 
+这里有不同模块的文档详细说明
+
 ###**[基本项目流程](https://github.com/ForeManWang/php-baixiu/blob/master/baixiu-docs/基本项目流程.md)**
 
 ###**[准备工作](https://github.com/ForeManWang/php-baixiu/blob/master/baixiu-docs/准备工作.md)**
